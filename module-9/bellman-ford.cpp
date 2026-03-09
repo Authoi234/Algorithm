@@ -11,7 +11,7 @@ public:
         this->b = b;
         this->c = c;
     }
-};
+};  
 int dis[1005];
 int main()
 {
